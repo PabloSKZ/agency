@@ -1,6 +1,6 @@
 ### Install
 
-> git clone git@github.com:luca-montaigut/agency.git
+> git clone git@github.com:pabloskz/agency.git
 
 > cd agency
 
